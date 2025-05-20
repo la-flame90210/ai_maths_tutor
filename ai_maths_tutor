@@ -58,6 +58,3 @@ Be friendly and encouraging.
                 st.write(tutor_reply)
             except Exception as e:
                 st.error(f"❌ Error: {e}")
-OPENAI_API_KEY = "your_openai_api_key_here"
-streamlit
-openai
